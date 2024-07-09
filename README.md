@@ -1,6 +1,6 @@
 # Actividad e Intents en Android Studio: Aplicaciones Móviles
 
-Repositorio de algunas aplicaciones de **Actividades e Intents** en Android Studio realizadas en el curso de Desarrollo de Aplicaciones Móviles Nativas en la Escuela Superior de Cómputo del IPN en la Cuidad de México, México.
+Repositorio de algunas aplicaciones de **Actividades e Intents** en Android Studio realizadas en el curso de Desarrollo de Aplicaciones Móviles Nativas en la Escuela Superior de Cómputo del IPN en la Ciudad de México, México.
 
 ## Descripción
 
